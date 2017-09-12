@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Sorting
 {
-    public class Class1
+    public enum SortingDirection
     {
+        Ascending, Descending
     }
 }
